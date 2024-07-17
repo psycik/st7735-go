@@ -10,7 +10,7 @@ import (
 	"periph.io/x/conn/v3/spi/spireg"
 	"periph.io/x/host/v3"
 
-	"github.com/asssaf/st7735-go/st7735"
+	"github.com/psycik/st7735-go/st7735"
 )
 
 type PowersaveCommand struct {

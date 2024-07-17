@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/asssaf/st7735-go/cli/cmd"
+	"github.com/psycik/st7735-go/cli/cmd"
 )
 
 func main() {
